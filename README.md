@@ -1,0 +1,2 @@
+# startip
+startip stránka
